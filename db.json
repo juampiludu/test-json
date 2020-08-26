@@ -3,17 +3,17 @@
       {
         "id": 1,
         "title": "Post 1",
-        "imageURL": "https://github.com/juampiludu/test-json/blob/master/img1.jpg"
+        "imageURL": "https://raw.githubusercontent.com/juampiludu/test-json/master/img1.jpg"
       },
       {
         "id": 2,
         "title": "Post 2",
-        "imageURL": "https://github.com/juampiludu/test-json/blob/master/img2.jpg"
+        "imageURL": "https://raw.githubusercontent.com/juampiludu/test-json/master/img2.jpg"
       },
       {
         "id": 3,
         "title": "Post 3",
-        "imageURL": "https://github.com/juampiludu/test-json/blob/master/img3.jpg"
+        "imageURL": "https://raw.githubusercontent.com/juampiludu/test-json/master/img3.jpg"
       }
     ],
     "comments": [
